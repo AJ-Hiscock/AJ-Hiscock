@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sustainability and Innovation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DevOps things
-- 📫 How to reach me ... MS Teams
+- 📫 How to reach me: MS Teams
 - 😄 Pronouns: Miss me with that noise
 - ⚡ Fun fact: I can do a backflip
 

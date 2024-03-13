@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJ-Hiscock
+- 👋 Hi, I’m Anthony James Hiscock
 - 👀 I’m interested in Sustainability and Innovation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DevOps things
